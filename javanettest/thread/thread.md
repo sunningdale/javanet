@@ -13,3 +13,4 @@ java thread
 
 5、以上规则对其它对象锁同样适用.
  
+二，[Java Thread(线程)案例详解sleep和wait的区别](http://www.cnblogs.com/DreamSea/archive/2012/01/16/SleepAndWaitDifferent.html)
