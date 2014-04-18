@@ -25,7 +25,7 @@ javac：如果当前你要编译的java文件中引用了其它的类(比如说�
  - (注意：%CLASSPATH%表示使用系统变量CLASSPATH的值进行查找，这里假设Junit.jar的路径就包含在CLASSPATH系统变量中) 
 
 
-javac参数(-classpath, -sourcepath)详解
+**javac参数(-classpath, -sourcepath)详解**
      首先是官方说法： 
      
 -classpath:  设置用户类路径，它将覆盖 CLASSPATH 环境变量中的用户类路径。若既未指定 CLASSPATH 又未指定 
